@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana78786&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana78786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hana78786/hana78786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
