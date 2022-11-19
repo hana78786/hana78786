@@ -1,8 +1,23 @@
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana78786&show_icons=true&theme=radical)
+  
+</div>
+
 # ✨ Hello World! 
   나의 깃 허브를 소개합니다!
   - java 위주위 백엔드 개발을 하고 있습니다.
   - 풀스택 개발을 지향합니다!
 
+ ## 주요언어
+ <div>
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ </div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana78786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 📑 [기술 블로그](https://velog.io/@hana78786)
  
@@ -29,9 +44,8 @@
 - 반응형 대응
 - 파이널 프로젝트 학원 내 평가 1위
 
-## 🎟 What about My gitHub....
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana78786&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana78786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **hana78786/hana78786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
