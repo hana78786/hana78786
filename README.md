@@ -1,11 +1,12 @@
+
+
+# ✨ Hello World! 
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana78786&show_icons=true&theme=radical)
   
 </div>
 
-# ✨ Hello World! 
-  나의 깃 허브를 소개합니다!
   - java 위주위 백엔드 개발을 하고 있습니다.
   - 풀스택 개발을 지향합니다!
 
