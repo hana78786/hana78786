@@ -10,6 +10,8 @@
   - java 위주위 백엔드 개발을 하고 있습니다.
   - 풀스택 개발을 지향합니다!
 
+## 📑 [기술 블로그](https://velog.io/@hana78786)
+
  ## 주요언어
  <div>
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,7 +22,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana78786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- ### 📑 [기술 블로그](https://velog.io/@hana78786)
+
  
 # 😎 레포지토리 소개
 ## 💻 [Study_hana](https://github.com/hana78786/Study_hana)
