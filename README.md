@@ -10,7 +10,7 @@
   - java 위주위 백엔드 개발을 하고 있습니다.
   - 풀스택 개발을 지향합니다!
 
-## 📑 [기술 블로그](https://velog.io/@hana78786) 📃[노션 이력서](https://www.notion.so/Nam-Hana-f20bacb7b7a3485d8f944967b37358d8)
+## 📑 [기술 블로그](https://velog.io/@hana78786) 👩‍💻[노션 이력서](https://www.notion.so/Nam-Hana-f20bacb7b7a3485d8f944967b37358d8)
 
  ## 주요언어
  <div>
