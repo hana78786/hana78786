@@ -3,7 +3,7 @@
 # ✨ Hello World! 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana78786&show_icons=true&theme=radical)
+  
   
 </div>
 
